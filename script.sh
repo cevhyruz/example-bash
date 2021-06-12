@@ -8,11 +8,11 @@ a_function(){
 
 a_function "0"
 
-a_function "1"
+#a_function "1"
 
-if [ "a" = "a" ];
-then
-    echo "hit"
-else
-    echo "missed"
-fi
+#if [ "a" = "a" ];
+#then
+    #echo "hit"
+#else
+    #echo "missed"
+#fi
