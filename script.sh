@@ -5,14 +5,3 @@ a_function(){
         echo "hello"
     fi
 }
-
-a_function "0"
-
-#a_function "1"
-
-#if [ "a" = "a" ];
-#then
-    #echo "hit"
-#else
-    #echo "missed"
-#fi
