@@ -11,5 +11,8 @@ a_function(){
     echo "hello"
   fi
 
-  echo "${array_one[1]}"
+  # missed
+  # echo "${array_one[1]}"
+
+  echo "${array_one[@]}"
 }
