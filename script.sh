@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 a_function(){
-  declare -a array_one=(
+  declare -ga array_one=(
     "one"
     "two"
     "three"
