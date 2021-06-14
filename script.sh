@@ -10,4 +10,6 @@ a_function(){
   if [[ "$1" = "1" ]]; then
     echo "hello"
   fi
+
+  echo "${array_one[1]}"
 }
